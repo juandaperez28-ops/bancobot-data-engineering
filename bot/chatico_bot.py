@@ -14,7 +14,7 @@ def limpiar_cache_s3():
 # ================= CONFIGURACION =================
 
 EMAIL = "bog.chat.ico@gmail.com"
-PASSWORD = "mxjn ywps yroy qbgy"
+PASSWORD = "############"
 
 IMAP_SERVER = "imap.gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
